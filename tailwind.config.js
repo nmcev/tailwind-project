@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'mine': ['Lexend','sans-serif']
+        'mine': ['Lexend','sans-serif','Sigmar', 'cursive']
       }
     },
   
