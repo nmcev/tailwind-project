@@ -3,3 +3,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.custom-img{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.7)),url('https://wallpapercave.com/dwp1x/wp2257957.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
